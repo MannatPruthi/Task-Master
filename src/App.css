@@ -1,0 +1,14 @@
+
+input{
+  width: 100%;
+}
+
+
+
+.m-button{
+  min-width: 80px;
+}
+
+.m-row{
+  margin: 10px 5px;
+}
